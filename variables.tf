@@ -92,3 +92,6 @@ variable "rule_priority" {
 variable "host_header" {
   
 }
+variable "key_name" {
+  
+}
